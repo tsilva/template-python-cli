@@ -1,5 +1,7 @@
 # my-project
 
+[![CI](https://github.com/tsilva/template-python-cli/actions/workflows/release.yml/badge.svg)](https://github.com/tsilva/template-python-cli/actions/workflows/release.yml)
+
 Short description of what this tool does.
 
 ## Installation

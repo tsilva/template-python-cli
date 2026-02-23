@@ -22,3 +22,9 @@ dev = ["pytest"]
 [project.urls]
 Homepage = "https://github.com/tsilva/my-project"
 Repository = "https://github.com/tsilva/my-project"
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
